@@ -1,0 +1,20 @@
+# Credenciais
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
