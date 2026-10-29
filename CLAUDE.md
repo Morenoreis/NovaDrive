@@ -11,7 +11,7 @@
 - Interface obrigatória com Python + Streamlit. Plotly ou Altair para gráficos.
 - Credenciais de banco nunca no código. Usar variáveis de ambiente `.env` ou `st.secrets`.
 - Sempre filtrar por período na própria query, nunca carregar a tabela inteira para filtrar depois.
-- Cache (`st.cache_data`): ~1 min para agregações simples; 15~20 min para consultas com muitos joins.
+- Cache (`st.cache_data`): TTL padrão de 5 a 15 min (`ttl` entre 300 e 900 s) para todas as consultas.
 - Sem autenticação/login nesta versão (uso interno).
 
 ## Como trabalhar neste repositório
