@@ -16,7 +16,7 @@
 
 ## Como trabalhar neste repositório
 
-1. Antes de implementar, leia a spec em `specs/<funcionalidade>` (requirements.md, desing.md, tasks.md) e o diagrama em `docs/diagrama-banco_dados.png`. Confirme nomes exatos de tabelas, colunas, tipos e chaves antes de escrever qualquer SQL.
+1. Antes de implementar, leia a spec em `specs/<funcionalidade>` (requirements.md, design.md, tasks.md) e o diagrama em `docs/diagrama-banco-dados.png`. Confirme nomes exatos de tabelas, colunas, tipos e chaves antes de escrever qualquer SQL.
 
 2. Não implemente nada fora da spec. Se algo estiver ambíguo ou uma coluna não existir no diagrama, pare e pergunte, não invente.
 
