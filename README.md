@@ -6,7 +6,7 @@ Painel somente leitura sobre o banco de dados PostgreSQL de uma rede de concessi
 
 ## Estrutura
 
-Regras técnicas estão em `CLAUDE.md`, specs em `specs/<pastas>/` (requeriments.md, design.md, tasks.md), diagrama em `docs/`, prompt prontos em `prompts.md`.
+Regras técnicas estão em `CLAUDE.md`, specs em `specs/<pastas>/` (requirements.md, design.md, tasks.md), diagrama em `docs/`, prompt prontos em `prompts.md`.
 
 ## Como Implementar
 
